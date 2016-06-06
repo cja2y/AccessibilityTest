@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cja2y/accessibilitytest/LogcatReader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cja2y/accessibilitytest/logUtil/Level.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cja2y/accessibilitytest/logUtil/LogBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cja2y/accessibilitytest/logUtil/LogCat.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cja2y/accessibilitytest/logUtil/LogLoader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cja2y/accessibilitytest/logUtil/LogParser.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cja2y/accessibilitytest/logUtil/Options.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cja2y/accessibilitytest/logUtil/TextWatcherAdapter.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
